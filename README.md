@@ -74,7 +74,3 @@ Communication between the server and clients is handled using TCP and UDP socket
 - ncurses library for the graphical interface.
 - Standard C libraries for socket programming and utility functions.
 
-## License
-
-This project is licensed under the MIT License.
-
