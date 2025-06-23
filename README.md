@@ -2,8 +2,8 @@
 # Bomberman Project
 
 ## Overview
-
-This project is a multiplayer Bomberman game implemented in C. The game consists of a server that manages the game state and multiple clients that connect to the server to play the game. The game supports different modes and allows players to interact with each other in real-time.
+Project carried out during my third year of a Bachelor's degree in Computer Science, in a team of three students.
+This project is a multiplayer Bomberman game implemented in C (made . The game consists of a server that manages the game state and multiple clients that connect to the server to play the game. The game supports different modes and allows players to interact with each other in real-time.
 
 ## Project Structure
 
